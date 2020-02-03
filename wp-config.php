@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'pinaclea_db_03feb' );
+define( 'DB_NAME', 'pinaclea_db_03Feb' );
 
 /** MySQL database username */
 define( 'DB_USER', 'pinaclea_zobair' );
