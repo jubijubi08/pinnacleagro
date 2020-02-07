@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b107b236-30e8-4fcb-8283-9fbd375adb05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580718044758</updated>
       <workItem from="1580718047390" duration="248000" />
-      <workItem from="1580737847549" duration="1357000" />
+      <workItem from="1580737847549" duration="2590000" />
     </task>
     <task id="LOCAL-00001" summary="db config">
       <created>1580738656863</created>
@@ -64,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580738656863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="db config case update">
+      <created>1580739232655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580739232655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,28 +78,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="db config" />
-    <option name="LAST_COMMIT_MESSAGE" value="db config" />
+    <MESSAGE value="db config case update" />
+    <option name="LAST_COMMIT_MESSAGE" value="db config case update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="612" y="338" key="#WordPress" timestamp="1580718140557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="612" y="338" key="#WordPress/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1580718140557" />
-    <state x="391" y="0" key="CommitChangelistDialog2" timestamp="1580738655393">
+    <state x="391" y="0" key="CommitChangelistDialog2" timestamp="1580739231950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580738655393" />
+    <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580739231950" />
     <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1580738660314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580738660314" />
-    <state x="444" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1580737852052">
+    <state x="444" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581048756007">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="444" y="237" key="com.intellij.ide.util.TipDialog/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1581048756007" />
     <state x="444" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580737852052" />
-    <state x="577" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580738603186">
+    <state x="577" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581048764810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="577" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1581048764810" />
     <state x="577" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1580738603186" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
